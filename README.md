@@ -181,8 +181,11 @@ After the NEAR MetaBUILD III hackathon, I had a few major milestones (roadmap) i
 
 - Successfully introduced NEAR-based eCommerce solutions for current Web2.0 traditional eCommerce online business. Forming a new NEAR-commerce network.
 
-### What I learned
+### Idea & Future developments
 
-- Implementing NEAR JS SDK in Wordpress Plugin Development
-- Key management tools for eCommerce online store operation
-- Method to design eCommerce features with high interoperability
+- Cross-Chain support
+- Solana Pay integrations
+- QR code payments
+- Add cryptocurrency support: USDC, USDE, Solana etc..
+- Custom Token, Stream Token (STR)
+- 
